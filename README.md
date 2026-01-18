@@ -2,6 +2,7 @@
 This travelling website is designed to inspire people to explore the world by showcasing beautiful destinations and providing essential travel-related information.
 The website offers a visually appealing and user-friendly interface where users can discover scenic locations, learn about the benefits of travelling, and find destination highlights in one place.
 With a responsive design and smooth navigation, the website ensures a seamless browsing experience across all devices, making travel planning easy and enjoyable.
+
 ✨ Features of the Travelling Website
 
 1. Responsive Design:
@@ -40,10 +41,10 @@ With a responsive design and smooth navigation, the website ensures a seamless b
    
 🎒 Purpose of the Website
 
-Inspire people to travel and explore nature
+1. Inspire people to travel and explore nature
 
-Showcase popular and beautiful travel destinations
+2. Showcase popular and beautiful travel destinations
 
-Serve as a basic travel guide or promotional travel website
+3. Serve as a basic travel guide or promotional travel website
 
-Ideal for educational projects or beginner travel platforms
+4. Ideal for educational projects or beginner travel platforms
