@@ -37,3 +37,13 @@ With a responsive design and smooth navigation, the website ensures a seamless b
     Displays email and phone number
     
     Social media icons for easy connectivity
+   
+🎒 Purpose of the Website
+
+Inspire people to travel and explore nature
+
+Showcase popular and beautiful travel destinations
+
+Serve as a basic travel guide or promotional travel website
+
+Ideal for educational projects or beginner travel platforms
